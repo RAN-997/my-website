@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "Welcome to my website!\nWelcome! I’m Spancer Zhou, a Master’s student in Bioinformatics at Case Western Reserve University, where I am fortunate to work under the mentorship of Dr. Gurkan Bebek. With a passion for uncovering insights at the intersection of computational biology and neuroscience, I am currently focusing on multi-omics integration. My research involves analyzing RNA-seq data from 5xFAD mouse models (cortex and hippocampus tissues at 4, 8, and 12 months) alongside proteomics datasets. These efforts aim to uncover molecular mechanisms underlying neurodegenerative diseases, which hold the potential to inform precision medicine strategies.\nPreviously, I graduated from Michigan State University with a B.S. in Interdisciplinary Studies, specializing in Environment and Health, where I honed my skills in computational and experimental biology. I’ve contributed to projects ranging from predictive modeling of cell surface protein abundance using scRNA-seq data to exploring deep learning techniques for understanding proteomic variability. These experiences have provided me with a strong foundation in data analysis, programming, and biological interpretation.\nAlthough I am in the early stages of my academic journey, I am committed to continuous growth and exploration. I plan to pursue a Ph.D. to deepen my expertise and contribute to the broader field of bioinformatics, with a long-term vision of advancing our understanding of complex biological systems.\nBeyond my academic pursuits, I’m an avid traveler who finds inspiration in road trips and exploring new landscapes. I believe that these experiences enrich my perspective and fuel creativity, both in research and in life.\nFeel free to reach out contact me to discuss collaboration opportunities, research interests, or simply to connect!\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Lab Experience",
+    "section": "",
+    "text": "Case Western Reserve University | 2024 – Present\n\nWorking under the mentorship of Dr. Gurkan Bebek on RNA-seq and proteomics analysis of 5xFAD mouse models to investigate neurodegenerative mechanisms.\n\nResearch focuses include:\n\nTranscriptomic and proteomic changes in cortex and hippocampus tissues at 4, 8, and 12 months of age.\n\nIntegrating data across omics platforms to achieve a comprehensive understanding of disease pathways."
+  },
+  {
+    "objectID": "projects/index.html#rna-seq-and-proteomics-analysis-of-5xfad-mouse-models",
+    "href": "projects/index.html#rna-seq-and-proteomics-analysis-of-5xfad-mouse-models",
+    "title": "Lab Experience",
+    "section": "",
+    "text": "Case Western Reserve University | 2024 – Present\n\nWorking under the mentorship of Dr. Gurkan Bebek on RNA-seq and proteomics analysis of 5xFAD mouse models to investigate neurodegenerative mechanisms.\n\nResearch focuses include:\n\nTranscriptomic and proteomic changes in cortex and hippocampus tissues at 4, 8, and 12 months of age.\n\nIntegrating data across omics platforms to achieve a comprehensive understanding of disease pathways."
+  },
+  {
+    "objectID": "projects/index.html#mindfulness-based-stress-reduction-mbsr-therapy-research",
+    "href": "projects/index.html#mindfulness-based-stress-reduction-mbsr-therapy-research",
+    "title": "Lab Experience",
+    "section": "Mindfulness-Based Stress Reduction (MBSR) Therapy Research",
+    "text": "Mindfulness-Based Stress Reduction (MBSR) Therapy Research\nUniversity of Michigan | June 2023 – May 2024\n\nConducted statistical analysis and machine learning techniques to evaluate the therapeutic effects of MBSR on Social Anxiety Disorders (SAD).\n\nResponsibilities included:\n\nData cleaning and descriptive statistics\n\nApplying algorithms like Random Forest and SVM to explore variability in treatment outcomes\n\nAnalyzed treatment variability to identify factors influencing the effectiveness of interventions."
+  },
+  {
+    "objectID": "projects/index.html#deep-learning-for-predicting-cell-surface-protein-abundance",
+    "href": "projects/index.html#deep-learning-for-predicting-cell-surface-protein-abundance",
+    "title": "Lab Experience",
+    "section": "Deep Learning for Predicting Cell Surface Protein Abundance",
+    "text": "Deep Learning for Predicting Cell Surface Protein Abundance\nMichigan State University | July 2021 – Jan. 2022\n\nAssisted in developing predictive models for cell surface protein abundance using scRNA-seq data in Dr. Bin Chen’s lab.\n\nKey contributions:\n\nRefined proteomics datasets using SAVER-X denoising techniques\n\nGained experience in optimizing architectures like cTP-net and Trans-cell\n\nAssisted in analyzing protein co-expression patterns to validate models and identify therapeutic targets for cancer treatment\n\nProposed optimizations to improve model generalization and transferability across datasets."
+  },
+  {
+    "objectID": "projects/index.html#car-t-cell-therapy-optimization",
+    "href": "projects/index.html#car-t-cell-therapy-optimization",
+    "title": "Lab Experience",
+    "section": "CAR T Cell Therapy Optimization",
+    "text": "CAR T Cell Therapy Optimization\nUniversity of Pennsylvania, Department of Dermatology | June – July 2021\n\nSupported research on optimizing CAR T cell therapy culture systems by combining IL-7 and IL-15 cytokines to maintain T cell function and enhance in vivo expansion.\n\nGained hands-on experience in the experimental procedures of CAR T cell generation, including:\n\nCAR construct design using DNADynamo software and gBlock synthesis.\n\nTransfecting HEK293T cells for virus production and lentiviral transduction of donor-derived T cells under supervision.\n\nEvaluating CAR T cell functionality through in vitro assays to assess exhaustion and persistence.\n\n\nAssisted in a CRISPR-based loss-of-function screen to identify factors impacting CAR T cell efficacy, focusing on overcoming limitations like T-cell exhaustion and reduced persistence.\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "Research/index.html",
+    "href": "Research/index.html",
+    "title": "Research Focus and Ambitions",
+    "section": "",
+    "text": "Exploring Today, Building Tomorrow\nAs a first-year master’s student in Bioinformatics at Case Western Reserve University, my immediate goal is to build a solid foundation in computational biology and data analysis techniques. I am currently gaining a deeper understanding of RNA sequencing and proteomic analysis, as well as completing my current project on a 5xFAD mouse model.\nLooking to the future, I aspire to pursue a PhD in bioinformatics and further specialize in multi-omics integration and its application in precision medicine. While my long-term career goals are still evolving, I am firmly committed to advancing bioinformatics research, especially in the context of complex diseases. One of my goals has always been to use computational and experimental methods to improve our understanding of disease biology and drive innovation in treatment strategies.\nMy journey is driven by a genuine curiosity for discovery, a determination to solve complex problems, and a desire to make a meaningful contribution to the field of bioinformatics.\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Travel Journal",
+    "section": "",
+    "text": "Outside of academia, I am passionate about traveling and discovering new places. Road trips are my favorite way to explore, as they provide a unique opportunity to experience diverse landscapes and cultures. My most memorable journeys include long drives through scenic routes and exploring hidden gems in various cities. Traveling not only inspires my research but also helps me recharge and connect with different perspectives.\nHere’s some short videos capturing the highlights of my travel:\n\n\n\n\n\n\nVideo\n\n\nVideo\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Beyond p < 0.05: Rethinking What Statistical Significance Means in 2025",
+    "section": "",
+    "text": "After reading *The American Statistician*, I realized how much our current approach to statistical analysis often misses the bigger picture. The article explains that relying too much on p-values, especially the cutoff of 0.05, has caused many problems in scientific research.\nWhat struck me most was the concept that, statistical significance has become a “tyrannical” binary rule rather than a helpful tool. The authors point out that, Fisher and other early statisticians never intended p-values to become the sole arbiter of scientific truth or importance. P-values were originally meant to suggest when results might be worth a closer look, not to serve as final proof. The authors’ message to “Accept uncertainty. Be thoughtful, open, and modest” (ATOM) really made sense to me as a better way to think about data.\nThis idea of embracing uncertainty feels especially relevant to my own experience. When I work with health data, the results are often unclear. Trying to make a clear yes/no decision based only on a p-value has always felt wrong, but I didn't know there was another way until I read this article.\nThe article also helped me understand how focusing on p &lt; 0.05 can lead to problems like p-hacking and selective reporting. I had learned about these issues before, but this paper helped me see how they are connected to the way we're trained to look for \"significant\" results.\nOne of my favorite quotes from the paper is:\n**“No single index should substitute for scientific reasoning.”**\nIn 2025, I want to be the kind of data scientist who doesn't just aim for small p-values. I want to explain results clearly, acknowledge uncertainty, and focus on what the data really show. This article gave me a better understanding—and a better mindset—for doing that."
+  }
+]
